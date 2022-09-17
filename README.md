@@ -5,5 +5,5 @@
 
 ## Video About How it works:
 <div>
-    <video src="./Resources/video.mp4" style="width:100%">
+    <video src="./Resources/video.mp4" style="width:100%" controls>
 </div>
